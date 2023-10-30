@@ -3258,9 +3258,6 @@ pub fn XMMatrixPerspectiveFovRH(
     }
 }
 
-// TODO: XMMatrixPerspectiveOffCenterLH
-// TODO: XMMatrixPerspectiveOffCenterRH
-
 /// Builds an orthogonal projection matrix for a left-handed coordinate system.
 ///
 /// ## Parameters
